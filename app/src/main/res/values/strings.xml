@@ -4,4 +4,6 @@
     <string name="imagem_do_local">imagem do local</string>
     <string name="especiais">Especiais</string>
     <string name="brasil_capitalize">Brasil</string>
+    <string name="realizar_pagamento">Realizar Pagamento</string>
+    <string name="preco_final">Preço final:</string>
 </resources>
