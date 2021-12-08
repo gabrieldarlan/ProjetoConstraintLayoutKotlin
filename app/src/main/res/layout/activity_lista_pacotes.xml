@@ -9,12 +9,12 @@
         android:id="@+id/lista_pacotes_banner_inicial"
         android:layout_width="0dp"
         android:layout_height="120dp"
-        android:color="@color/purple_200"
+        android:color="@color/colorPrimary"
         android:contentDescription="@string/banner_principal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@color/purple_200"
+        app:srcCompat="@color/colorPrimary"
         tools:ignore="ImageContrastCheck" />
 
     <TextView
