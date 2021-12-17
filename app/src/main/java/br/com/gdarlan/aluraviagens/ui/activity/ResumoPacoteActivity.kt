@@ -11,8 +11,6 @@ import br.com.gdarlan.aluraviagens.util.DiasUtil
 import br.com.gdarlan.aluraviagens.util.MoedaUtil
 import br.com.gdarlan.aluraviagens.util.ResourcesUtil
 import java.math.BigDecimal
-import java.text.SimpleDateFormat
-import java.util.*
 
 class ResumoPacoteActivity : AppCompatActivity() {
 
